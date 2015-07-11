@@ -3,4 +3,4 @@ target
 sbt-launch.jar
 .idea
 *.iml
-clicktalk-fx/out
+clicktalk-flash/out
